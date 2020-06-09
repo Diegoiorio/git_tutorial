@@ -1,1 +1,1 @@
-console.group("Hello github on new branch");
+console.log("Hello github on new branch");
